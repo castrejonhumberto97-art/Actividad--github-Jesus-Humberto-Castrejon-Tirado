@@ -1,0 +1,6 @@
+Nombre del alumno: Jesús Humberto Castrejon Tirado
+Fecha: 11 de septiembre de 2026
+Objetivo de la actividad: Practicar el flujo de trabajo básico con Git y GitHub mediante la creación de un repositorio, una rama, cambios, un commit y un Pull Request.
+
+¿Qué es un Pull Request?
+Es una solicitud que permite proponer y revisar cambios realizados en una rama antes de integrarlos a otra rama, normalmente main.
